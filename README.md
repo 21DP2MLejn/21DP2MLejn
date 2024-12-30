@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##Tools i have learned and use 🧑‍💻
+Tools i have learned and use 🧑‍💻
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="24" height="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="24" height="24" />
