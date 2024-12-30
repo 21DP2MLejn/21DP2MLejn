@@ -67,6 +67,8 @@ Languages, tools i have learned and use 🧑‍💻
   </div>
 </section>
 
+[(https://github-readme-stats.vercel.app/api?username=21dp2mlejn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
