@@ -2,7 +2,7 @@
 
 Languages, tools i have learned and use 🧑‍💻
 <section>
-  <h2>Front-End Development</h2>
+  <h3>Front-End Development</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" />
@@ -20,7 +20,7 @@ Languages, tools i have learned and use 🧑‍💻
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
   </div>
 
-  <h2>Back-End Development</h2>
+  <h3>Back-End Development</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32" height="32" alt="PHP" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32" height="32" alt="Laravel" />
@@ -28,14 +28,14 @@ Languages, tools i have learned and use 🧑‍💻
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />
   </div>
 
-  <h2>Databases</h2>
+  <h3>Databases</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
   </div>
 
-  <h2>Tools</h2>
+  <h3>Tools</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git" />
@@ -45,7 +45,7 @@ Languages, tools i have learned and use 🧑‍💻
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" height="32" alt="GitHub" />
   </div>
 
-  <h2>Software & Frameworks</h2>
+  <h3>Software & Frameworks</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="32" height="32" alt="WordPress" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="32" height="32" alt="WebStorm" />
@@ -53,13 +53,13 @@ Languages, tools i have learned and use 🧑‍💻
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" alt="Vs Code" />
   </div>
 
-  <h2>Operating Systems</h2>
+  <h3>Operating Systems</h3>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="32" height="32" alt="Windows 8" />
   </div>
 
-  <h2>Other Languages</h2>
+  <h3>Other Languages</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" />
@@ -67,7 +67,7 @@ Languages, tools i have learned and use 🧑‍💻
   </div>
 </section>
 
-[(https://github-readme-stats.vercel.app/api?username=21dp2mlejn)](https://github.com/anuraghazra/github-readme-stats)
+[![21DP2MLejn's GitHub stats](https://github-readme-stats.vercel.app/api?username=21DP2MLejn)(https://github.com/21DP2MLejn/github-readme-stats)
 
 
 
