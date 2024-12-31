@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-Languages, tools i have learned and use 🧑‍💻
+![21DP2MLejn's GitHub stats](https://github-readme-stats.vercel.app/api?username=21DP2MLejn)
 <section>
   <h3>Front-End Development</h3>
   <div class="icon-group">
@@ -67,7 +66,7 @@ Languages, tools i have learned and use 🧑‍💻
   </div>
 </section>
 
-![21DP2MLejn's GitHub stats](https://github-readme-stats.vercel.app/api?username=21DP2MLejn)
+
 
 
 
