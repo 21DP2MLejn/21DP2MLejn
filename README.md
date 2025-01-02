@@ -43,7 +43,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="32" height="32" alt="ESLint" />
   </div>
 
-  <h3>Software & Frameworks</h3>
+  <h3>Software</h3>
   <div class="icon-group">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="32" height="32" alt="WordPress" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="32" height="32" alt="WebStorm" />
